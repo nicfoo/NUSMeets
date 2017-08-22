@@ -139,3 +139,4 @@ There are many ways to get involved:
 Bear in mind, we are in early alpha. For more info read this [blog post](http://blog.crowducate.me/welcome-to-crowducate/ "Welcome to Crowducate").
 >>>>>>> 28ea86c2af8082ce25dd79d03b0df8e6017423b2
 # NUSMeets
+# NUSMeets
